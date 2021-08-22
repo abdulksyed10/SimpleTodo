@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories (It is a mp4 file and you will have to download it to watch the walkthrouhg):
 
 <img src='Walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
